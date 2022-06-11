@@ -1,3 +1,24 @@
+ProfileMe.dev
+
+New feature:Changelog added
+
+Introduction
+Skills
+Socials
+Badges
+Support
+
+    Go home
+
+© 2022 Dan Cranney
+Follow me
+|
+Buy Me a Coffee
+Support
+
+Make it easy for people using your products to support you or give donations.
+buymeacoffeeBuy Me a Coffee:
+
 Hi 👋 My name is Langford Kwabena
 =================================
 
@@ -9,6 +30,10 @@ Web Developer, Technical writer, Content creator
 *   ✉️  You can contact me at [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
 *   🚀  I'm currently working on [Follio](http://follio.app)
 *   🤝  I'm open to collaborating on NFT & Web projects, Content creation and Technical writing opportunities
+<a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/langford_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/langfordquarshie21" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/langfordquarshie21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 <p align="left">
@@ -47,3 +72,27 @@ Web Developer, Technical writer, Content creator
                                 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
                     </p>
                     
+
+                  ### Socials
+                  
+                  <p align="left"> <a href="https://www.dev.to/langfordquarshie21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/langfordquarshie21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://langfordk.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/langford-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/langforddev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/langfordquarshie21"><img src="https://github-readme-stats.vercel.app/api?username=langfordquarshie21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="langfordquarshie21's GitHub stats" /></a>
+
+<a href="http://www.github.com/langfordquarshie21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=langfordquarshie21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/langfordquarshie21/follio-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=follio-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/langfordquarshie21/kima" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=kima&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/langfordquarshie21/react-native-signal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=react-native-signal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/langfordquarshie21/playy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=playy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/langford-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
