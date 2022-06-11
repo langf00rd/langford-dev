@@ -1,24 +1,3 @@
-ProfileMe.dev
-
-New feature:Changelog added
-
-Introduction
-Skills
-Socials
-Badges
-Support
-
-    Go home
-
-© 2022 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Support
-
-Make it easy for people using your products to support you or give donations.
-buymeacoffeeBuy Me a Coffee:
-
 Hi 👋 My name is Langford Kwabena
 =================================
 
@@ -83,16 +62,5 @@ Web Developer, Technical writer, Content creator
 
 <a href="http://www.github.com/langfordquarshie21"><img src="https://github-readme-stats.vercel.app/api?username=langfordquarshie21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="langfordquarshie21's GitHub stats" /></a>
 
-<a href="http://www.github.com/langfordquarshie21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=langfordquarshie21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/langfordquarshie21/follio-v2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=follio-v2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/langfordquarshie21/kima" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=kima&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/langfordquarshie21/react-native-signal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=react-native-signal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/langfordquarshie21/playy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=langfordquarshie21&repo=playy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 ### Support Me
-<a href="https://www.buymeacoffee.com/langford-dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+<a href="https://www.buymeacoffee.com/langford.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
