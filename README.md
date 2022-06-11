@@ -4,14 +4,18 @@ Hi 👋 My name is Langford Kwabena
 Web Developer, Technical writer, Content creator
 ------------------------------------------------
 
-*   🌍  I'm based in Ghana 🇬🇭
-*   🖥️  See my portfolio at [Follio.app/langford](http://follio.app/langford)
-*   ✉️  You can contact me at [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
-*   🚀  I'm currently working on [Follio](http://follio.app)
-*   🤝  I'm open to collaborating on NFT & Web projects, Content creation and Technical writing opportunities<a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img
+*   🌍  I'm based in Ghana 🇬🇭
+*   🖥️  See my portfolio at [Follio.app/langford](http://follio.app/langford)
+*   ✉️  You can contact me at [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
+*   🚀  I'm currently working on [Follio](http://follio.app)
+*   🤝  I'm open to collaborating on NFT & Web projects, Content creation and Technical writing opportunities
+<a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/langford_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/langfordquarshie21" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/langfordquarshie21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/github/followers/langfordquarshie21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -47,21 +51,16 @@ Web Developer, Technical writer, Content creator
                                 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
                     </p>
                     
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/langfordquarshie21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/langfordquarshie21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://langfordk.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/langford-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/langforddev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/langfordquarshie21"><img src="https://github-readme-stats.vercel.app/api?username=langfordquarshie21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="langfordquarshie21's GitHub stats" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/langford.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left"> <a href="https://www.dev.to/langfordquarshie21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/langfordquarshie21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://langfordk.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/langford-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/langforddev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/langfordquarshie21"><img src="https://github-readme-stats.vercel.app/api?username=langfordquarshie21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="langfordquarshie21's GitHub stats" /></a>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/langford.dev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
