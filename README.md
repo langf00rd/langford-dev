@@ -7,7 +7,7 @@ Web Developer, Technical writer, Content creator
 *   🌍  I'm based in Ghana 🇬🇭
 *   🖥️  See my portfolio at [Follio.app/langford](http://follio.app/langford)
 *   ✉️  You can contact me at [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
-*   🚀  I'm currently working on [Follio](http://follio.app)
+*   🚀  I'm currently working on [Follio](http://follio.app) and [Superdev](superdev.dev)
 *   🤝  I'm open to collaborating on NFT & Web projects, Content creation and Technical writing opportunities
 <a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/langford_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
