@@ -1,4 +1,4 @@
-Hi 👋 My name is Langford Kwabena
+Hi 👋 My name is Langford
 =================================
 
 Web Developer, Technical writer, Content creator
