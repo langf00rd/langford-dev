@@ -12,7 +12,7 @@ Web Developer, Technical writer, Content creator
 <a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/langford_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/langford-dev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/langfordquarshie21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                  src="https://img.shields.io/github/followers/langford-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 <p align="left">
