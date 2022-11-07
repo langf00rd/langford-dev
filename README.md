@@ -1,7 +1,7 @@
 Hi 👋 My name is Langford
 =================================
 
-Web Developer, Technical writer, Content creator
+Web Developer, YouTuber, Technical writer, Content creator
 ------------------------------------------------
 
 *   🌍  I'm based in Ghana 🇬🇭
