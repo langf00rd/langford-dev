@@ -1,13 +1,12 @@
 Hi 👋 My name is Langford
 =================================
 
-Web Developer, YouTuber, Technical writer, Content creator
+Web & Mobile app Developer, YouTuber, Technical writer, Content creator
 ------------------------------------------------
 
-*   🌍  I'm based in Ghana 🇬🇭
-*   🖥️  Read my blog at [Superdev](http://superdev.dev)
-*   ✉️  You can contact me at [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
-*   🚀  I'm currently working on [Superdev](http://superdev.dev)
+*   🖥️  Read my blog @ [superdev.dev](http://superdev.dev)
+*   ✉️  Email me @ [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
+*   🚀  Checkout my [YouTube channel](https://www.youtube.com/@devlangford/)
 *   🤝  I build websites, mobile apps, write blogs, and create content for a living
 
 
