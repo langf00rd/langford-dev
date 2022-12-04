@@ -8,7 +8,7 @@ Web Developer, YouTuber, Technical writer, Content creator
 *   🖥️  Read my blog at [Superdev](http://superdev.dev)
 *   ✉️  You can contact me at [langfordquarshie21@gmail.com](mailto:langfordquarshie21@gmail.com)
 *   🚀  I'm currently working on [Superdev](http://superdev.dev)
-*   🤝  I'm open to collaborating on NFT & Web projects, Content creation and Technical writing opportunities
+*   🤝  I build websites, mobile apps, write blogs, and create content for a living
 <a href="https://www.twitter.com/langford_dev" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/langford_dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/langford-dev" target="_blank" rel="noreferrer"><img
